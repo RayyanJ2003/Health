@@ -1,6 +1,6 @@
 import React from "react";
 import { calendarAppointments } from "../../data/appointments";
-import style from "./calendar.module.css";
+import style from "./Calendar.module.css";
 import { MdAdd } from "react-icons/md";
 import Avatar from "../../assets/images/avatar.png";
 
